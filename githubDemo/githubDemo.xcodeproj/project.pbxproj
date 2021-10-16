@@ -17,6 +17,7 @@
 		6A801E41271B138D00BFB486 /* githubDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A801E40271B138D00BFB486 /* githubDemoTests.swift */; };
 		6A801E4B271B138D00BFB486 /* githubDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A801E4A271B138D00BFB486 /* githubDemoUITests.swift */; };
 		6A801E4D271B138D00BFB486 /* githubDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A801E4C271B138D00BFB486 /* githubDemoUITestsLaunchTests.swift */; };
+		6A801E5A271B1D0F00BFB486 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A801E59271B1D0F00BFB486 /* Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		6A801E46271B138D00BFB486 /* githubDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = githubDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A801E4A271B138D00BFB486 /* githubDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = githubDemoUITests.swift; sourceTree = "<group>"; };
 		6A801E4C271B138D00BFB486 /* githubDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = githubDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6A801E59271B1D0F00BFB486 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				6A801E26271B138C00BFB486 /* AppDelegate.swift */,
 				6A801E28271B138C00BFB486 /* SceneDelegate.swift */,
 				6A801E2A271B138C00BFB486 /* ViewController.swift */,
+				6A801E59271B1D0F00BFB486 /* Test.swift */,
 				6A801E2C271B138C00BFB486 /* Main.storyboard */,
 				6A801E32271B138D00BFB486 /* Assets.xcassets */,
 				6A801E34271B138D00BFB486 /* LaunchScreen.storyboard */,
@@ -263,6 +266,7 @@
 			files = (
 				6A801E2B271B138C00BFB486 /* ViewController.swift in Sources */,
 				6A801E27271B138C00BFB486 /* AppDelegate.swift in Sources */,
+				6A801E5A271B1D0F00BFB486 /* Test.swift in Sources */,
 				6A801E29271B138C00BFB486 /* SceneDelegate.swift in Sources */,
 				6A801E31271B138C00BFB486 /* githubDemo.xcdatamodeld in Sources */,
 			);
